@@ -4,7 +4,7 @@
 >
 > Never get surprised by an auto-renewal again.
 
-**Repository:**  https://git.arts.ac.uk/a-alhennawi0520251/GhostSub
+**Repository:**  https://github.com/Ahmed-Al-Hennawi/Ghost-Sub-UAL
 
 ---
 
